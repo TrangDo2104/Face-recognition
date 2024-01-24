@@ -64,7 +64,3 @@ Follow these steps to set up and use the face recognition system:
 ## Have Questions or Feedback?
 
 If you have any questions, concerns, or feedback about this project, we'd love to hear from you! Feel free to open an issue in this repository or contact the contributors directly. Your input is valuable to us and will help in improving this project.
-
----
-
-Your contributions and feedback make this project better for everyone. Thank you for being a part of our community!
