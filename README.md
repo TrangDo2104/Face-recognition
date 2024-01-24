@@ -36,9 +36,24 @@ The MobileNet architecture is used as the base model, with additional layers to 
 
 ## Usage
 
-1. **Train Your Model**: Use the Jupyter notebook to train your model. Ensure you have downloaded and prepared the dataset as described above.
-2. **Set Up the Project**: Clone this repository and place your trained model within the directory.
-3. **Run the Application**: Execute `app.py` to start the application with your trained model.
+## Usage
+
+Follow these steps to set up and use the face recognition system:
+
+1. **Train Your Model**:
+   - Use the provided Jupyter notebook to train your model. Make sure you have downloaded and prepared the dataset as described in the [Dataset](#dataset) section.
+
+2. **Set Up the Project**:
+   - Clone this repository to your local machine.
+   - Place your trained model within the repository's directory.
+
+3. **Set Up the `application_data` Folder**:
+   - Create an `application_data` folder within the project directory.
+   - Inside `application_data`, create a `verification_image` folder. This should contain the positive image, which you can copy from the training process.
+   - Also, create an `input_image` folder within `application_data`. This is where you'll place the input images for the application to process.
+
+4. **Run the Application**:
+   - Execute `app.py` to start the application with your trained model. Ensure that the `application_data` folder is set up as described above.
 
 ## References
 
