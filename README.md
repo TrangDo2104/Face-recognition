@@ -6,15 +6,13 @@ The dataset for custom training can be downloaded from the following link:
 
 [Download Dataset](https://vis-www.cs.umass.edu/lfw/)
 
-Please download the dataset in 'All images as gzipped tar file' and extract it to the root directory of this project.
+Please download the dataset in 'All images as gzipped tar file' and extract it to 'data/negative' folder to retrain the model.
 
-## Object Detection Model
+## How to train the model?
 
-The object detection model used in this project is YOLOv3-SPP. The pre-trained weights can be downloaded from the following link:
+The object detection model used in this project is trained Siamese Model. The training notebook is in the following link:
 
-[Download YOLOv3-SPP Weights](https://drive.google.com/file/d/1h2g_wQ270_pckpRCHJb9K78uDf-2PsPd/view?usp=sharing)
-
-Please download the weights and place them in the "detector/yolo/data/" folder.
+[Download Training Notebook](https://drive.google.com/file/d/1h2g_wQ270_pckpRCHJb9K78uDf-2PsPd/view?usp=sharing](https://huggingface.co/Changchoichang2104/siamesemodel_facerecognition/blob/main/face-recognition_final.ipynb)
 
 ## Pose Tracking Model
 
