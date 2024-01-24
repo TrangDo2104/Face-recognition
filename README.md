@@ -4,7 +4,7 @@
 
 The dataset for custom training can be downloaded from the following link:
 
-[Download Dataset]((https://vis-www.cs.umass.edu/lfw/))
+[Download Dataset](https://vis-www.cs.umass.edu/lfw/)
 
 Please download the dataset in 'All images as gzipped tar file' and extract it to the root directory of this project.
 
